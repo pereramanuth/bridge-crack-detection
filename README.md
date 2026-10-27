@@ -1,4 +1,4 @@
-# 🌉 Bridge Crack Detection
+# 🌉 Bridge Crack Detection developing phase
 
 Deep learning project that detects cracks in bridge surface images and shows where they are. A pretrained **ResNet18** is fine-tuned in **PyTorch** to classify image patches as crack or no crack. **Grad-CAM** and a **sliding-window heatmap** then highlight the cracked regions.
 
